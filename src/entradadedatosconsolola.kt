@@ -26,23 +26,6 @@ fun main() {
 
     println("el total a pagar es $ $total ")
 
-    // calculadora
-
-    println("ingrese el primer numero:")
-    val num1 = readln().toInt()
-
-    println("ingrese el segundo numero:")
-    val num2 = readln().toInt()
-
-    println("ingrese el tercer numero:")
-    val num3 = readln().toInt()
-
-    println("ingrese el cuarto numero:")
-    val num4 = readln().toInt()
-
-    val suma =num1 + num2
-
-    val producto = num3 + num4
 
 
 
