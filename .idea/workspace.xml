@@ -5,18 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="11f58172-95d9-44f8-b422-a0c49a6cac87" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/PROBLEMA PROPUESTO.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PROBLEMA4.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PROBLEMAS3.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/calculadora.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/estructura condicional.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/estructuras.repetiivas.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nuemero3.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/problemas.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/problemas8.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/problemas9.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/9 trabajos.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Estructurarepetitiva-do-wile.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/estructuracondicionalwhen/proyecto-59.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/estructuracondicionalwhen/proyecto_60.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/estructuracondicionalwhen/proyecto_61.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/estructuracondicionalwhen/proyecto_62.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/estructuracondicionalwhen/trabajo_1.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/estructuracondicionalwhen/trabajo_2.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/estructuracondicionalwhen/trabajo_3.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/prueba.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/entradadedatosconsolola.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/entradadedatosconsolola.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/problemas9.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/problemas9.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,6 +51,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Kotlin.AsdfKt.executor": "Run",
     "Kotlin.EntradadedatosconsololaKt.executor": "Run",
     "Kotlin.Estructura_condicionalKt.executor": "Run",
     "Kotlin.Estructuras_repetiivasKt.executor": "Run",
@@ -61,44 +63,52 @@
     "Kotlin.PROBLEMA_PROPUESTOKt.executor": "Run",
     "Kotlin.Problema1_tiposvariablesKt.executor": "Run",
     "Kotlin.Problemas8Kt.executor": "Run",
+    "Kotlin.Problemas9Kt.executor": "Run",
     "Kotlin.ProblemasKt.executor": "Run",
+    "Kotlin.Proyecto_59Kt.executor": "Run",
+    "Kotlin.Proyecto_60Kt.executor": "Run",
+    "Kotlin.Proyecto_61Kt.executor": "Run",
+    "Kotlin.Proyecto_62Kt.executor": "Run",
+    "Kotlin.PruebaKt.executor": "Run",
+    "Kotlin.Trabajo_2Kt.executor": "Debug",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
     "onboarding.tips.debug.path": "C:/Users/Thomas/Documents/kotlin/proyecto 1/src/Main.kt"
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin.Estructuras_repetiivasKt">
-    <configuration name="Estructuras_repetiivasKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Estructuras_repetiivasKt" />
+  <component name="RunManager" selected="Kotlin.Trabajo_3Kt">
+    <configuration name="AsdfKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="estructuracondicionalwhen.AsdfKt" />
       <module name="proyecto 1" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PROBLEMA4Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PROBLEMA4Kt" />
+    <configuration name="Proyecto_61Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Proyecto_61Kt" />
       <module name="proyecto 1" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PROBLEMAS3Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PROBLEMAS3Kt" />
+    <configuration name="Proyecto_62Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="estructuracondicionalwhen.Proyecto_62Kt" />
       <module name="proyecto 1" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PROBLEMA_PROPUESTOKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PROBLEMA_PROPUESTOKt" />
+    <configuration name="Trabajo_2Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="estructuracondicionalwhen.Trabajo_2Kt" />
       <module name="proyecto 1" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Problemas8Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Problemas8Kt" />
+    <configuration name="Trabajo_3Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="estructuracondicionalwhen.Trabajo_3Kt" />
       <module name="proyecto 1" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -106,11 +116,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.Estructuras_repetiivasKt" />
-        <item itemvalue="Kotlin.Problemas8Kt" />
-        <item itemvalue="Kotlin.PROBLEMA_PROPUESTOKt" />
-        <item itemvalue="Kotlin.PROBLEMA4Kt" />
-        <item itemvalue="Kotlin.PROBLEMAS3Kt" />
+        <item itemvalue="Kotlin.Trabajo_3Kt" />
+        <item itemvalue="Kotlin.Trabajo_2Kt" />
+        <item itemvalue="Kotlin.Proyecto_62Kt" />
+        <item itemvalue="Kotlin.AsdfKt" />
+        <item itemvalue="Kotlin.Proyecto_61Kt" />
       </list>
     </recent_temporary>
   </component>
