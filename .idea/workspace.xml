@@ -5,17 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="11f58172-95d9-44f8-b422-a0c49a6cac87" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/tare/tarea1.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tare/tarea2.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/funciones_cin_retorno/probelma2.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/funciones_cin_retorno/problema_1.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/funciones_cin_retorno/problema_3.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/funciones_cin_retorno/proyecto_79.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/funciones_cin_retorno/proyecto_80.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/funciones_cin_retorno/proyecto_81.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/funciones_con_expresion_unica/proyecto_85.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/funciones_con_expresion_unica/proyecto_86.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/funciones_con_expresion_unica/proyecto_87.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/conceptos_funciones/problema_reuselto1.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/conceptos_funciones/problema_reuselto1.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/conceptos_funciones/problema_reuselto2.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/conceptos_funciones/problema_reuselto2.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/conceptos_funciones/proyecto_70.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/conceptos_funciones/proyecto_70.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/conceptos_funciones/proyecto_71.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/conceptos_funciones/proyecto_71.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/estructura_condicional_when_argumento/problema_propuesto.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/estructura_condicional_when_argumento/problema_propuesto.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/estructura_condicional_when_argumento/proyecto_66.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/estructura_condicional_when_argumento/proyecto_66.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/estructura_condicional_when_argumento/proyecto_67.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/estructura_condicional_when_argumento/proyecto_67.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/estructura_condicional_when_argumento/proyecto_68.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/estructura_condicional_when_argumento/proyecto_68.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +58,9 @@
     &quot;Kotlin.PROBLEMA4Kt.executor&quot;: &quot;Run&quot;,
     &quot;Kotlin.PROBLEMAS3Kt.executor&quot;: &quot;Run&quot;,
     &quot;Kotlin.PROBLEMA_PROPUESTOKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Probelma2Kt.executor&quot;: &quot;Run&quot;,
     &quot;Kotlin.Problema1_tiposvariablesKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Problema_3Kt.executor&quot;: &quot;Run&quot;,
     &quot;Kotlin.Problema_propuestoKt.executor&quot;: &quot;Run&quot;,
     &quot;Kotlin.Problemas8Kt.executor&quot;: &quot;Run&quot;,
     &quot;Kotlin.Problemas9Kt.executor&quot;: &quot;Run&quot;,
@@ -80,7 +81,21 @@
     &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Thomas/Documents/kotlin/proyecto 1/src/Main.kt&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.Proyecto_70Kt">
+  <component name="RunManager" selected="Kotlin.Problema_3Kt">
+    <configuration name="Probelma2Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="funciones_cin_retorno.Probelma2Kt" />
+      <module name="proyecto 1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Problema_3Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="funciones_cin_retorno.Problema_3Kt" />
+      <module name="proyecto 1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Problema_propuestoKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="estructura_condicional_when_argumento.Problema_propuestoKt" />
       <module name="proyecto 1" />
@@ -102,27 +117,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Trabajo_2Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="estructuracondicionalwhen.Trabajo_2Kt" />
-      <module name="proyecto 1" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Trabajo_3Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="estructuracondicionalwhen.Trabajo_3Kt" />
-      <module name="proyecto 1" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.Problema_3Kt" />
+        <item itemvalue="Kotlin.Probelma2Kt" />
         <item itemvalue="Kotlin.Proyecto_70Kt" />
         <item itemvalue="Kotlin.Problema_propuestoKt" />
         <item itemvalue="Kotlin.Proyecto_68Kt" />
-        <item itemvalue="Kotlin.Trabajo_3Kt" />
-        <item itemvalue="Kotlin.Trabajo_2Kt" />
       </list>
     </recent_temporary>
   </component>
