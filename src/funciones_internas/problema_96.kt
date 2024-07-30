@@ -13,3 +13,4 @@ fun multiplos2y5() {
         if (multiplo(valor, 5))
             mult5++
     }
+    }
