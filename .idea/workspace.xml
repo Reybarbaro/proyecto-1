@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="11f58172-95d9-44f8-b422-a0c49a6cac87" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/CONCEPTOS_POO/propyecto_109.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo_llamda_metodos/proyecto_117.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo_llamda_metodos/prpuesro.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -185,6 +186,15 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-function">
+          <url>file://$PROJECT_DIR$/src/CONCEPTOS_POO/propuesto.kt</url>
+          <line>3</line>
+          <properties class="CONCEPTOS_POO.Alumno" method="&lt;init&gt;">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="14" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="kotlin-line">
           <url>file://$PROJECT_DIR$/src/funciones_internas/problema_96.kt</url>
