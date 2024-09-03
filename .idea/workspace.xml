@@ -5,11 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="11f58172-95d9-44f8-b422-a0c49a6cac87" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/metodos_get_y_set/proyeto_125.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/modifcadores_private_public/propesto.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/modifcadores_private_public/proyecto_123.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/funciones_de_tipo_arreglo/matrizes2.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/funciones_de_tipo_arreglo/matrizes_1.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/metodos_get_y_set/propuesto_2.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/metodos_get_y_set/propuesto_get.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/modifcadores_private_public/proyecto_122.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/modifcadores_private_public/proyecto_122.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,53 +42,62 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Kotlin.AsdfKt.executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin.EntradadedatosconsololaKt.executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin.Estructura_condicionalKt.executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin.Estructuras_repetiivasKt.executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin.Kotlin1Kt.executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin.MainKt.executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin.Nuemero3Kt.executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin.PROBLEMA4Kt.executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin.PROBLEMAS3Kt.executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin.PROBLEMA_PROPUESTOKt.executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin.Probelma2Kt.executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin.Problema1_tiposvariablesKt.executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin.Problema_3Kt.executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin.Problema_propuestoKt.executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin.Problema_resueltoKt.executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin.Problemas8Kt.executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin.Problemas9Kt.executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin.ProblemasKt.executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin.PropuestoKt.executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin.Propuesto_2Kt.executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin.Proyecto_100Kt (1).executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin.Proyecto_100Kt.executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin.Proyecto_101Kt.executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin.Proyecto_119Kt.executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin.Proyecto_120Kt.executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin.Proyecto_59Kt.executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin.Proyecto_60Kt.executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin.Proyecto_61Kt.executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin.Proyecto_62Kt.executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin.Proyecto_68Kt.executor&quot;: &quot;Coverage&quot;,
-    &quot;Kotlin.Proyecto_70Kt.executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin.Proyecto_92Kt.executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin.Proyecto_98Kt.executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin.PruebaKt.executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin.Trabajo_2Kt.executor&quot;: &quot;Debug&quot;,
-    &quot;Kotlin.Trabajo_3Kt.executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin._2_segunda_formaKt.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Thomas/Documents/kotlin/proyecto 1/src/Main.kt&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Kotlin.AsdfKt.executor": "Run",
+    "Kotlin.EntradadedatosconsololaKt.executor": "Run",
+    "Kotlin.Estructura_condicionalKt.executor": "Run",
+    "Kotlin.Estructuras_repetiivasKt.executor": "Run",
+    "Kotlin.Kotlin1Kt.executor": "Run",
+    "Kotlin.MainKt.executor": "Run",
+    "Kotlin.Nuemero3Kt.executor": "Run",
+    "Kotlin.PROBLEMA4Kt.executor": "Run",
+    "Kotlin.PROBLEMAS3Kt.executor": "Run",
+    "Kotlin.PROBLEMA_PROPUESTOKt.executor": "Run",
+    "Kotlin.Probelma2Kt.executor": "Run",
+    "Kotlin.Problema1_tiposvariablesKt.executor": "Run",
+    "Kotlin.Problema_3Kt.executor": "Run",
+    "Kotlin.Problema_propuestoKt.executor": "Run",
+    "Kotlin.Problema_resueltoKt.executor": "Run",
+    "Kotlin.Problemas8Kt.executor": "Run",
+    "Kotlin.Problemas9Kt.executor": "Run",
+    "Kotlin.ProblemasKt.executor": "Run",
+    "Kotlin.PropuestoKt.executor": "Run",
+    "Kotlin.Propuesto_2Kt (1).executor": "Run",
+    "Kotlin.Propuesto_2Kt.executor": "Run",
+    "Kotlin.Propuesto_getKt.executor": "Run",
+    "Kotlin.Proyecto_100Kt (1).executor": "Run",
+    "Kotlin.Proyecto_100Kt.executor": "Run",
+    "Kotlin.Proyecto_101Kt.executor": "Run",
+    "Kotlin.Proyecto_119Kt.executor": "Run",
+    "Kotlin.Proyecto_120Kt.executor": "Run",
+    "Kotlin.Proyecto_59Kt.executor": "Run",
+    "Kotlin.Proyecto_60Kt.executor": "Run",
+    "Kotlin.Proyecto_61Kt.executor": "Run",
+    "Kotlin.Proyecto_62Kt.executor": "Run",
+    "Kotlin.Proyecto_68Kt.executor": "Coverage",
+    "Kotlin.Proyecto_70Kt.executor": "Run",
+    "Kotlin.Proyecto_92Kt.executor": "Run",
+    "Kotlin.Proyecto_98Kt.executor": "Run",
+    "Kotlin.PruebaKt.executor": "Run",
+    "Kotlin.Trabajo_2Kt.executor": "Debug",
+    "Kotlin.Trabajo_3Kt.executor": "Run",
+    "Kotlin._2_segunda_formaKt.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "C:/Users/Thomas/Documents/kotlin/proyecto 1/src/Main.kt"
   }
-}</component>
-  <component name="RunManager" selected="Kotlin.Proyecto_120Kt">
+}]]></component>
+  <component name="RunManager" selected="Kotlin.Propuesto_2Kt (1)">
+    <configuration name="Propuesto_2Kt (1)" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="metodos_get_y_set.Propuesto_2Kt" />
+      <module name="proyecto 1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Propuesto_2Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="arreglos.Propuesto_2Kt" />
       <module name="proyecto 1" />
@@ -96,8 +105,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Proyecto_101Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="arreglos.Proyecto_101Kt" />
+    <configuration name="Propuesto_getKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="metodos_get_y_set.Propuesto_getKt" />
       <module name="proyecto 1" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -117,20 +126,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_2_segunda_formaKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="arreglos._2_segunda_formaKt" />
-      <module name="proyecto 1" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.Propuesto_2Kt (1)" />
+        <item itemvalue="Kotlin.Propuesto_getKt" />
+        <item itemvalue="Kotlin.Propuesto_2Kt" />
         <item itemvalue="Kotlin.Proyecto_120Kt" />
         <item itemvalue="Kotlin.Proyecto_119Kt" />
-        <item itemvalue="Kotlin._2_segunda_formaKt" />
-        <item itemvalue="Kotlin.Propuesto_2Kt" />
-        <item itemvalue="Kotlin.Proyecto_101Kt" />
       </list>
     </recent_temporary>
   </component>
