@@ -5,16 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="11f58172-95d9-44f8-b422-a0c49a6cac87" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/funciones_con_argumentos_nombrados/propuesto.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/funciones_con_argumentos_nombrados/proyecto_94.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/funciones_internas/problema.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/funciones_internas/problema_96.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/funciones_parametros_funcion_por_defecto/problema_resuelto.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/funciones_parametros_funcion_por_defecto/proyecto_92.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tarea_2/1.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tarea_2/2.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tarea_2/3.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tarea_2/4.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/funciones_de_tipo_arreglo/matrizes2.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/funciones_de_tipo_arreglo/matrizes_1.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/metodos_get_y_set/propuesto_2.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/metodos_get_y_set/propuesto_get.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -69,6 +63,14 @@
     "Kotlin.Problemas9Kt.executor": "Run",
     "Kotlin.ProblemasKt.executor": "Run",
     "Kotlin.PropuestoKt.executor": "Run",
+    "Kotlin.Propuesto_2Kt (1).executor": "Run",
+    "Kotlin.Propuesto_2Kt.executor": "Run",
+    "Kotlin.Propuesto_getKt.executor": "Run",
+    "Kotlin.Proyecto_100Kt (1).executor": "Run",
+    "Kotlin.Proyecto_100Kt.executor": "Run",
+    "Kotlin.Proyecto_101Kt.executor": "Run",
+    "Kotlin.Proyecto_119Kt.executor": "Run",
+    "Kotlin.Proyecto_120Kt.executor": "Run",
     "Kotlin.Proyecto_59Kt.executor": "Run",
     "Kotlin.Proyecto_60Kt.executor": "Run",
     "Kotlin.Proyecto_61Kt.executor": "Run",
@@ -76,9 +78,11 @@
     "Kotlin.Proyecto_68Kt.executor": "Coverage",
     "Kotlin.Proyecto_70Kt.executor": "Run",
     "Kotlin.Proyecto_92Kt.executor": "Run",
+    "Kotlin.Proyecto_98Kt.executor": "Run",
     "Kotlin.PruebaKt.executor": "Run",
     "Kotlin.Trabajo_2Kt.executor": "Debug",
     "Kotlin.Trabajo_3Kt.executor": "Run",
+    "Kotlin._2_segunda_formaKt.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
@@ -86,37 +90,37 @@
     "onboarding.tips.debug.path": "C:/Users/Thomas/Documents/kotlin/proyecto 1/src/Main.kt"
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin.PropuestoKt">
-    <configuration name="Probelma2Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="funciones_cin_retorno.Probelma2Kt" />
+  <component name="RunManager" selected="Kotlin.Propuesto_2Kt (1)">
+    <configuration name="Propuesto_2Kt (1)" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="metodos_get_y_set.Propuesto_2Kt" />
       <module name="proyecto 1" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Problema_3Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="funciones_cin_retorno.Problema_3Kt" />
+    <configuration name="Propuesto_2Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arreglos.Propuesto_2Kt" />
       <module name="proyecto 1" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Problema_resueltoKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="funciones_parametros_funcion_por_defecto.Problema_resueltoKt" />
+    <configuration name="Propuesto_getKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="metodos_get_y_set.Propuesto_getKt" />
       <module name="proyecto 1" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PropuestoKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="funciones_con_argumentos_nombrados.PropuestoKt" />
+    <configuration name="Proyecto_119Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="colabrocio_de_clases.Proyecto_119Kt" />
       <module name="proyecto 1" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Proyecto_92Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="funciones_parametros_funcion_por_defecto.Proyecto_92Kt" />
+    <configuration name="Proyecto_120Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="colabrocio_de_clases.Proyecto_120Kt" />
       <module name="proyecto 1" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -124,11 +128,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.PropuestoKt" />
-        <item itemvalue="Kotlin.Problema_resueltoKt" />
-        <item itemvalue="Kotlin.Proyecto_92Kt" />
-        <item itemvalue="Kotlin.Problema_3Kt" />
-        <item itemvalue="Kotlin.Probelma2Kt" />
+        <item itemvalue="Kotlin.Propuesto_2Kt (1)" />
+        <item itemvalue="Kotlin.Propuesto_getKt" />
+        <item itemvalue="Kotlin.Propuesto_2Kt" />
+        <item itemvalue="Kotlin.Proyecto_120Kt" />
+        <item itemvalue="Kotlin.Proyecto_119Kt" />
       </list>
     </recent_temporary>
   </component>
@@ -170,6 +174,43 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-function">
+          <url>file://$PROJECT_DIR$/src/funciones_internas/problema_96.kt</url>
+          <line>3</line>
+          <properties method="multiplos2y5">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-function">
+          <url>file://$PROJECT_DIR$/src/arreglos/propuesto_2.kt</url>
+          <line>5</line>
+          <properties method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-function">
+          <url>file://$PROJECT_DIR$/src/CONCEPTOS_POO/propuesto.kt</url>
+          <line>3</line>
+          <properties class="CONCEPTOS_POO.Alumno" method="&lt;init&gt;">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/funciones_internas/problema_96.kt</url>
+          <line>7</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/funciones_internas/problema_96.kt</url>
+          <line>9</line>
+          <option name="timeStamp" value="10" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
